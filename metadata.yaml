@@ -1,0 +1,24 @@
+_repo: Great-leaders-Historic-portraits-from-the-great-historians_66792
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Ferris, George T. (George Titus)
+    alias: Ferris, George Titus
+    birthdate: 1840
+    gutenberg_agent_id: '7404'
+    url: http://www.gutenberg.org/2009/agents/7404
+description: ''
+gutenberg_issued: '2021-11-22'
+identifiers:
+  gutenberg: '66792'
+  lccn: '13004266'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'Biography'
+- GITenberg
+title: 'Great leaders: Historic portraits from the great historians'
+url: http://www.gutenberg.org/ebooks/66792
